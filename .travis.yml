@@ -5,3 +5,4 @@ after_script:
   - echo 'this is after script'
   - ./this-file-doesnt-exist.sh
   - echo 'this is after the file that doesnt exist'
+  - sleep 10
